@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimatedDialog</string>
+
+    <!-- Main -->
+    <string name="info">Info</string>
+    <string name="nexia2_legend">Nexia 2 is a Legend!</string>
+    <string name="nexia2_legend_description">The world knows that Nexia 2 is a legend. Do you acknowledge it?</string>
+    <string name="hell_no">HELL NO</string>
+    <string name="for_sure">FOR SURE</string>
+</resources>
